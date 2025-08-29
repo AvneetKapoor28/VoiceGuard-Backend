@@ -1,0 +1,21 @@
+# Virtual Environment
+# This is the most important line! It tells Git to ignore your venv folder.
+venv/
+.venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/

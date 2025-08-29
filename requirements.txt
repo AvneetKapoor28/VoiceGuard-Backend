@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+pandas
+librosa
+soundfile
+matplotlib
+torch
+scikit-learn
